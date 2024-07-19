@@ -7,7 +7,7 @@ I'm an incoming Master's student at Columbia University studying Computer Scienc
 
 ![obj_detect_team_github](https://github.com/user-attachments/assets/857b37f7-022a-411c-8764-4fcf7aff4236)
 
-These are photos from an object detection project I led as part of the Data Science Union. Feel free to check out the code for it and other things I've worked on in the past and recently!
+These are photos from an object detection project I led as part of the Data Science Union. Feel free to check out the code for it below as well as other things I've worked on in the past and recently!
 
 
 
