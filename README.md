@@ -4,7 +4,7 @@
 
 ![obj_detect_team_github](https://github.com/user-attachments/assets/857b37f7-022a-411c-8764-4fcf7aff4236)
 
-I'm an incoming Master's student at Columbia University studying Computer Science. I did my undergrad at UCLA, where I got to explore data science and machine learning through my involvement in the Chiang Lab, Buonomano Lab, and Data Science Union. 
+I'm an incoming Master's student at Columbia University studying Computer Science. I did my undergrad at UCLA, where I got to explore data science and machine learning through my involvement in the Chiang Lab, Buonomano Lab, and Data Science Union--some of the members are pictured above :) 
 
 
 
