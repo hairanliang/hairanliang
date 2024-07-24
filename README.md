@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Hairan
-#### I love using data to create models that make our lives better, or even just more fun. 
+## Hi there 👋, my name is Hairan
+### I love using data to create models that make our lives better, or even just more fun. 
 
 I'm an incoming Master's student at Columbia University studying Computer Science, with an emphasis in Machine Learning. I did my undergrad at UCLA, where I got to explore data science and machine learning through my involvement in the [Buonomano Lab](https://www.buonomanolab.com/), [Chiang Lab](https://www.uclahealth.org/departments/neurosurgery/research/research-scientists/jeffrey-chiang-phd), and [Data Science Union (DSU)](https://datascienceunion.com/). 
 
